@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package org.example.CreationalDesignPatterns.Prototype;
 class Apartment{
     int apartmentNo;
     String apartmenttype;

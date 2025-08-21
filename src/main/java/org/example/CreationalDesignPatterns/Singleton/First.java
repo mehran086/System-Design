@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.CreationalDesignPatterns.Singleton;
 
 public class First {
     // treat First as judge

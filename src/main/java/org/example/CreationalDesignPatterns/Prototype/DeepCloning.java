@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package org.example.CreationalDesignPatterns.Prototype;
 class Passport1 implements  Cloneable{
     int passportNumber;
     Passport1(int passportNumber){

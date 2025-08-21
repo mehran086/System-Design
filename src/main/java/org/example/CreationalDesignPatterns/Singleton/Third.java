@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.CreationalDesignPatterns.Singleton;
 // using lazy loading , creating obj at runtime only , so that we can save space.not thread safe
 class LazySingleton {
     static LazySingleton obj=null;

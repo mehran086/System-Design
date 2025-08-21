@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.CreationalDesignPatterns.Singleton;
 
 // both lazy and thread synchronized . as only one object of the main class in created inside
 // the nested class .

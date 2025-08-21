@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package org.example.CreationalDesignPatterns.Prototype;
 // for tuf and tuf+
 interface EmailTemplate{
     void setContent(String Content);

@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.CreationalDesignPatterns.Singleton;
 class singletonUsingVolatile{
     private static volatile singletonUsingVolatile obj = null;
     private singletonUsingVolatile(){

@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package org.example.CreationalDesignPatterns.Prototype;
 
 import java.util.HashMap;
 import java.util.Map;

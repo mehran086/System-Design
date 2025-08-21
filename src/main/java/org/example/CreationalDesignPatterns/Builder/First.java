@@ -1,4 +1,4 @@
-package org.example.Builder;
+package org.example.CreationalDesignPatterns.Builder;
 class Burger{
     // necessary
     private String bread;

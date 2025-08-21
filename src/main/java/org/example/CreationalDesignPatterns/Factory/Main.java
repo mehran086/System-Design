@@ -1,4 +1,4 @@
-package org.example.Factory;
+package org.example.CreationalDesignPatterns.Factory;
 
 interface Shape{
     void run();

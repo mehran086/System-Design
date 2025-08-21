@@ -1,4 +1,4 @@
-package org.example.AbstractFactory;
+package org.example.CreationalDesignPatterns.AbstractFactory;
 
 interface Shape {
     void getshape();

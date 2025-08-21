@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package org.example.CreationalDesignPatterns.Prototype;
 //The new object will have the same values for all primitive fields,
 // and references to the same memory locations for any reference-type
 // fields (e.g., objects, arrays, or collections).

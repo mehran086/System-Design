@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.CreationalDesignPatterns.Singleton;
 // we can only have a single object
 // let us use eager loading(initialization during compilte time)
 //1) Make constructor private so that the class cannot be initialized
